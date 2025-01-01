@@ -5,6 +5,9 @@ If you want to set up a Pi server using MetaMask for authentication that allows 
 
 "My resolution for 2025: to prototype what I've had in mind since last year: a tool that allows the creation of shared Raspberry Pi servers for a community, to transmit integers from one computer to others via an ECC authentication compatible with that of Ethereum and MetaMask."
 
+
+## But Why ? 
+
 ![image](https://github.com/user-attachments/assets/2abd3d3a-97a8-4923-bd4c-18847f3d50ba)
 
 In the past, I’ve developed macro software that required multiple computers. This quickly turned the project into a nightmare of port forwarding and network complexities. So, my goal now is to create a tool that simplifies all of that.  
@@ -33,5 +36,7 @@ More about APIntIO 🍺, [API Inter In Out](https://apint.io):
   - [https://github.com/EloiStree/2025_01_01_HelloMegaMaskListenToIID](https://github.com/EloiStree/2025_01_01_HelloMegaMaskListenToIID)
 - Website and tools:
   - [https://github.com/EloiStree/apint.io](https://github.com/EloiStree/apint.io)
+- Handle the key:
+  - https://github.com/EloiStree/2025_01_01_HelloMegaMaskGitKeyToolsRamDB 
 - Creates admin Tunnel 1 to 1:
   - [https://github.com/EloiStree/2024_12_17_SingleTunnelMegaMaskWSUDP/tree/main](https://github.com/EloiStree/2024_12_17_SingleTunnelMegaMaskWSUDP/tree/main)
