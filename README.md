@@ -23,7 +23,7 @@ You can buy a index claim here:
 [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)           
 _Or send beer._      
   
-More about APIntIO 🍺, [API Inter In Out](https://apint.io):    
+More about [API Inter In Out](https://apint.io), 🍺.io:    
 [https://apint.io](https://apint.io)   
 
 
