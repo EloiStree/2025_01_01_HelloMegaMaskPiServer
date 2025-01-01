@@ -1,8 +1,5 @@
-# 2025_01_01_HelloMegaMaskPiServer
+# Hello MegaMask Pi Server
 If you want to set up a Pi server using MetaMask for authentication that allows remote control of devices, you're in the right place.
-
-
-
 
 "Ma résolution pour 2025 : prototyper ce que j'ai en tête depuis l'année passée : un outil permettant de créer des serveurs mutualisés sur Raspberry Pi pour une communauté, afin de transmettre des entiers d'un ordinateur à d'autres via une authentification ECC compatible avec celle d'Ethereum et MetaMask."
 
@@ -18,10 +15,23 @@ As a game developer, my aim is to make this tool increasingly user-friendly for 
 
 
 **Want to participated:**  
-You can buy a index claim here:  
-[![bmc_qr](https://github.com/user-attachments/assets/f51f9787-111d-4779-8607-64b6fd0b5692)](https://buymeacoffee.com/apintio)    
-https://buymeacoffee.com/apintio    
-Or just make a donation.  
+You can buy a index claim here:    
+<img src="https://github.com/user-attachments/assets/f51f9787-111d-4779-8607-64b6fd0b5692" width="25" height="25" alt="bmc_qr">
+[https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)       
+Or just make a donation.    
   
 More about APIntIO 🍺, [API Inter In Out](https://apint.io):    
-https://apint.io   
+[https://apint.io](https://apint.io)   
+
+
+
+**Code linked to this project**:
+
+- Allows users to push IID to be listened to:
+  - [https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID](https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID)
+- Allows users to listen to pushed IID:
+  - [https://github.com/EloiStree/2025_01_01_HelloMegaMaskListenToIID](https://github.com/EloiStree/2025_01_01_HelloMegaMaskListenToIID)
+- Website and tools:
+  - [https://github.com/EloiStree/apint.io](https://github.com/EloiStree/apint.io)
+- Creates admin Tunnel 1 to 1:
+  - [https://github.com/EloiStree/2024_12_17_SingleTunnelMegaMaskWSUDP/tree/main](https://github.com/EloiStree/2024_12_17_SingleTunnelMegaMaskWSUDP/tree/main)
