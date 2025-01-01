@@ -19,8 +19,8 @@ As a game developer, my aim is to make this tool increasingly user-friendly for 
 
 **Want to participated:**  
 You can buy a index claim here:    
-<img src="https://github.com/user-attachments/assets/f51f9787-111d-4779-8607-64b6fd0b5692" width="128" height="128" alt="QR Beerware Donation">
-[https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)       
+<img src="https://github.com/user-attachments/assets/f51f9787-111d-4779-8607-64b6fd0b5692" width="128" height="128" alt="QR Beerware Donation">  
+[https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)         
 Or just make a donation.    
   
 More about APIntIO 🍺, [API Inter In Out](https://apint.io):    
